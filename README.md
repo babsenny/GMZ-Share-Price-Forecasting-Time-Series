@@ -22,4 +22,4 @@ Data & Target Series
 
 Company: GMZ
 
-Target variable: (Open / Close / High / Low — specify which one you used in your report)
+Target variable: (Open)
